@@ -35,8 +35,8 @@ Eu me chamo **Lucas Rats** (ou só **Rats**)
 
 ---
 
-### 🌐 Onde me encontrar
 <div align="center">
+### 🌐 Onde me encontrar
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lucasrats)
 [![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lucasratsdev@gmail.com)
