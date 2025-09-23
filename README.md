@@ -24,7 +24,6 @@ Eu me chamo **Lucas Rats** (ou só **Rats**)
   <!-- Ferramentas -->
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
 
@@ -32,21 +31,15 @@ Eu me chamo **Lucas Rats** (ou só **Rats**)
 
 ### 📊 Estatísticas do GitHub
 ![Rats GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrats&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrats&layout=compact&theme=tokyonight)
-
----
-
-### 🚀 Projetos em Destaque
-- 🛒 **PDV em C** – Sistema de frente de caixa focado em simplicidade e desempenho  
-- ⚖️ **Minerador de Jurisprudências em Python** – Automação para coleta e organização de dados jurídicos  
-- 🌐 **Sites e Landing Pages (HTML, CSS, JS, SQL)** – Criação de páginas institucionais e de vendas  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrats&layout=compact&theme=tokyonight) 
 
 ---
 
 ### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lucasrats)  
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lucasratsdev@gmail.com)  
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lucasrats)
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lucasratsdev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/l.rats22)
 
----
-
-⭐ Sempre aprendendo, sempre evoluindo.  
+</div>
