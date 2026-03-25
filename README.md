@@ -30,8 +30,8 @@ Eu me chamo **Lucas Rats** (ou só **Rats**)
 ---
 
 ### 📊 Estatísticas do GitHub
-![Rats GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRats&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRats&layout=compact&theme=tokyonight) 
+![Rats GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Rats&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rats&layout=compact&theme=tokyonight) 
 
 ---
 
