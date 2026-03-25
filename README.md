@@ -1,8 +1,8 @@
 # Hello there! 👋  
 Eu me chamo **Lucas Rats** (ou só **Rats**)  
 
-💼 Estagiário de **Infraestrutura e Suporte** no **Hotel Fairmont Copacabana (Grupo Accor)**  
-🎓 Estudante de **Engenharia da Computação 3º Periodo** na Universidade Veiga de Almeida  
+💼 Tecnico N1 de **Infraestrutura e Suporte** na **Universidade Veiga de Almeida**  
+🎓 Estudante de **Engenharia da Computação 4º Periodo** na Universidade Veiga de Almeida  
 🔧 Experiência em **Suporte Técnico, Redes, Infraestrutura de TI e Desenvolvimento**  
 🚀 Desenvolvendo projetos em **Python, Java, C#, C, SQL, HTML, CSS, JavaScript, Arduino e outros**  
 
